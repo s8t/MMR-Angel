@@ -1,9 +1,7 @@
-## ToS
-
 Terms of Service
 ================
 
-Last revised on [DATE]
+Last revised on 02/11/2022
 
 ### Your Agreement with MMR Angel
 
@@ -47,7 +45,7 @@ The Service shall be subject to the privacy policy for the Service available at 
 
 ### Cancellation and Termination
 
-* You must cancel Your account via [URL]. An email or phone request to cancel Your account is not considered cancellation.
+* You must cancel Your account via this site. An email or phone request to cancel Your account is not considered cancellation.
 * You will not receive any refunds if You cancel Your account.
 * If You cancel the Service before the end of Your current paid up month, Your cancellation will take effect immediately and You will not be charged again.
 * All of Customer Source Code and Content will, within a reasonable amount of time to be determined solely by MMR Angel, be deleted from the Service upon cancellation.
